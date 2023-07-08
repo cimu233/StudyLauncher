@@ -1,0 +1,17 @@
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\bin\Debug\net6.0\StudyLauncher.exe
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\bin\Debug\net6.0\StudyLauncher.deps.json
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\bin\Debug\net6.0\StudyLauncher.runtimeconfig.json
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\bin\Debug\net6.0\StudyLauncher.dll
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\bin\Debug\net6.0\StudyLauncher.pdb
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.csproj.AssemblyReference.cache
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.AssemblyInfoInputs.cache
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.AssemblyInfo.cs
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.csproj.CoreCompileInputs.cache
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.dll
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\refint\StudyLauncher.dll
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.pdb
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.genruntimeconfig.cache
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\ref\StudyLauncher.dll
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\Interop.IWshRuntimeLibrary.dll
+D:\Documents\VS2022\LiuCShrpLrn\StudyLauncher\obj\Debug\net6.0\StudyLauncher.csproj.ResolveComReference.cache
