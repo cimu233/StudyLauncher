@@ -1,0 +1,10 @@
+Corrected;C:\Program Files\GPSoftware\Directory Opus\dopusrt.exe
+Phy; https://www.bilibili.com/video/BV17t411J7y9
+Bio; https://www.bilibili.com/video/BV1DZ4y1e7jb
+DldBio; D:\Transport\Bio.lnk
+DldBio2; C:\
+YtbBio; https://www.youtube.com/watch?v=cViJ3WnVKwg&list=PLBtPs9gUsl73hlpdhH4BJi8BN3lSnVuO7
+Cns; https://www.bilibili.com/video/BV1Kd4y1Y7go
+EnWAR; https://www.bilibili.com/video/BV1PL411s7Vr
+EnFl; https://www.bilibili.com/list/ml2050826343
+Mth; https://www.bilibili.com/video/BV1VD4y1D7UB

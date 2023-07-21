@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\VS2022\\LiuCShrpLrn\\StudyLauncher\\StudyLauncher.csproj",
-      "projectName": "StudyLauncher",
-      "projectPath": "D:\\Documents\\VS2022\\LiuCShrpLrn\\StudyLauncher\\StudyLauncher.csproj",
+      "projectUniqueName": "D:\\Documents\\VS2022\\LiuCShrpLrn\\MainLauncher\\MainLauncher.csproj",
+      "projectName": "MainLauncher",
+      "projectPath": "D:\\Documents\\VS2022\\LiuCShrpLrn\\MainLauncher\\MainLauncher.csproj",
       "packagesPath": "C:\\Users\\cimu2\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\VS2022\\LiuCShrpLrn\\StudyLauncher\\obj\\",
+      "outputPath": "D:\\Documents\\VS2022\\LiuCShrpLrn\\MainLauncher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cimu2\\AppData\\Roaming\\NuGet\\NuGet.Config",
